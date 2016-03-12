@@ -17,6 +17,6 @@
     "tests"
   ],
   "dependencies": {
-    "webpivottable": "^3.8.0"
+    "webpivottable": "3.5.0"
   }
 }
