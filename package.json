@@ -1,6 +1,6 @@
 {
   "name": "web-pivot-table-compat",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "scripts": {
     "postinstall": "node_modules/.bin/bower install --force"
   },
