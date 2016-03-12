@@ -7,7 +7,7 @@ dojoConfig = {
 
 document.getElementsByTagName('body')[0].className += ' claro';
 
-require('script!./bower_components/webpivottable/public/brightsea/wpt.js');
+require('script!./bower_components/webpivottable/public/brightsea/wpt/wpt.js');
 require('script!./wpt-wrapper.js');
 
 function WebPivotTable(id, options) {

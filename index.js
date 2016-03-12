@@ -8,7 +8,7 @@ require('script!./bower_components/webpivottable/public/lib/highcharts-release/h
 require('script!./bower_components/webpivottable/public/lib/highcharts-release/highcharts-3d.js');
 require('script!./bower_components/webpivottable/public/lib/highcharts-release/highcharts-more.js');
 require('script!./bower_components/webpivottable/public/lib/grouped_categories/grouped-categories.js');
-require('script!./bower_components/webpivottable/public/lib/jszip/jszip.min.js');
+require('script!./bower_components/webpivottable/public/lib/jszip/dist/jszip.min.js');
 require('script!./bower_components/webpivottable/public/lib/js-xlsx/dist/ods.js');
 require('script!./bower_components/webpivottable/public/lib/js-xlsx/dist/xlsx.min.js');
 
