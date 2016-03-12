@@ -1,0 +1,11 @@
+{
+  "name": "web-pivot-table-compat",
+  "version": "1.0.0",
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "file-loader": "^0.8.5",
+    "script-loader": "^0.6.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.14"
+  }
+}

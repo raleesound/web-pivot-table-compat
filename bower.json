@@ -1,0 +1,22 @@
+{
+  "name": "application-name",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Robert Lee <raleesound@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webpivottable": "^3.8.0"
+  }
+}
