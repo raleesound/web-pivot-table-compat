@@ -2,7 +2,7 @@
   "name": "web-pivot-table-compat",
   "version": "1.0.0",
   "scripts": {
-    "postinstall": "node_modules/bower/bin/bower install -F"
+    "postinstall": "node_modules/.bin/bower install -F"
   },
   "repository": {
     "type": "git",
